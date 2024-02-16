@@ -7987,7 +7987,7 @@ spawn(function()
 OrionLib:MakeNotification({
         Name = "TiKhang Hub",
         Content = "Có thằng ngu mới xài script này",
-        Image = "rbxassetid://16386933759",
+        Image = "rbxassetid://16388484376",
         Time = 5
     })
 
